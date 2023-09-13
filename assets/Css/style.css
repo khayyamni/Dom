@@ -1,0 +1,16 @@
+.header-color{
+    background-color: red;
+}
+
+
+.body-on{
+    background-color: white;
+}
+
+.body-off{
+    background-color: black;
+}
+
+.buttons{
+    height: 100vh;
+}
